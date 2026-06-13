@@ -14,7 +14,7 @@ def containsDuplicate(nums):
 print(containsDuplicate(nums))
 
 
-# alternate solution
+# alternate solutions
 
 def containsDuplicate2(nums):
     mySet =  Set()
